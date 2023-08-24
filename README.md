@@ -1,4 +1,5 @@
 ### Hi there 👋
+#I am Sam and I am a senior at Iowa State. Out of high school, I went to a smaller school called the University of Sioux Falls and then transferred to Iowa State after one semester. I have always been interested in learning #about aviation and that is why I have found myself in aerospace engineering here at ISU. Outside of school, my biggest hobby is sports. I love to golf, play intramurals, and watch sports whenever something is on. I also #love studying airplanes and learning about new ones whenever I can. My favorite fighter jet is the F-15 Eagle, my favorite airliner is the Boeing 777, and my favorite GA plane is the Cessna Skymaster. 
 
 <!--
 **svdevitt/svdevitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
